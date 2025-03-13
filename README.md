@@ -129,8 +129,7 @@ open up localhost:
    - PINECONE_API_KEY
    - OPENAI_API_KEY
 
-    
-Öncelikle python store_index.py diyerek database olustur.
-Olusturulacak db ismi verilir.
-App.py icinde veri alinacak db ismi degistirilir.
-Sonra python app.py calistirilarak chat baslar.
+Create DB with python store_index.py
+Give the db name 
+App.py change db name
+run python app.py
